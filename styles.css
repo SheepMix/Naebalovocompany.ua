@@ -1,0 +1,21 @@
+body {
+    background: orange url(bg.png);
+    text-align: center;
+}
+.h {
+    border: blue;
+    padding: 5px;
+    border-style: outset;
+    background: darkblue;
+    color: yellow;
+}
+.menu {
+    border: darkorange;
+    padding: 10px;
+    border-style: groove;
+    background: orange;
+    font-size: large;
+}
+.copyright {
+    padding-top: 500px;
+}
